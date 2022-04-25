@@ -10,11 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-- <img src="Home.png">
 
-- ![Home](./Home.png)
-- ![Home](https://user-images.githubusercontent.com/93892096/165010616-ffa854ad-2b28-426f-bcf5-2dab3a521cac.png)
-- [List of interventions](./ListofInterventions.png)
+- [Home](https://user-images.githubusercontent.com/93892096/165010616-ffa854ad-2b28-426f-bcf5-2dab3a521cac.png)
+
 
 ### Project Tracker
 
