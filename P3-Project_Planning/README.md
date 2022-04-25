@@ -22,6 +22,8 @@ Include a link to your public Trello board. Be sure you have user stories added 
 
 [Trello Tracker](https://trello.com/b/DDDDSDj5/kanban-template)
 
+![Trello Tracker](https://user-images.githubusercontent.com/93892096/165012192-31bec16c-2b59-4860-9426-1c4a1ed4e2cf.png)
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
