@@ -12,7 +12,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 - <img src="Home.png">
 
-- [Home](./Home.png)
+- ![Home](./Home.png)
 - [List of interventions](./ListofInterventions.png)
 
 ### Project Tracker
