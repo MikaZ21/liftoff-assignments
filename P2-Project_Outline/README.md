@@ -34,5 +34,5 @@ Academic / Behavioral interventions
 
 ### Project Tracker
 Link to your Trello board here
-I didn't get chance to work in Trello instead I worked wireframe using different app.
-I'll post screen shot on my Mentor's slack and will work on Trello next assignment to be able to get link.
+
+[Trello Tracker](https://trello.com/b/DDDDSDj5/kanban-template)
