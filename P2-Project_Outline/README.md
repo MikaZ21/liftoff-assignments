@@ -19,12 +19,12 @@ Academic / Behavioral interventions
 • Create content/comment: Users will be able to create new content/comment to other users content when logged in. New posts will appear in the user's profile.
 
 ### Technologies
-• Typescript
-• Spring Boot
-• Angular
-• MySQL
-• Java
-• HTML & CSS & Bootstrap
+- Typescript
+- Spring Boot
+- Angular
+- MySQL
+- Java
+- HTML & CSS & Bootstrap
 
 ### What I'll Have to Learn
 • Process to build application from scratch 
